@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @CeciliaGuarin
-- 👀 I’m interested in python and javascript
-- 🌱 I’m currently learning technology in systems analysis and development
-- 💞️ I’m looking to collaborate on smaller projects at the moment
+- 👀 I’m interested in python and SQL
+- 🌱 I’m working as a data analyst
+- 💞️ I’m looking for new challenges in data science
 - 📫 How to reach me: you can send me an e-mail at Ceciliaguarinsilva@gmail.com 
 
-<!---
-CeciliaGuarin/CeciliaGuarin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
